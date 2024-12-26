@@ -20,6 +20,7 @@ Kinda Bloated (will be ressolved in next release)
 
 # Credits:
 AmogOS Wallpapers: https://github.com/Amog-OS/AmogOS-Wallpapers
+
 Xubuntu: https://xubuntu.org/
 
 And much more…
